@@ -1,0 +1,38 @@
+1. Pregunta — Selección múltiple
+¿Cuál es la función principal de la terminal en un sistema operativo?
+
+Crear presentaciones
+A. Ejecutar comandos para interactuar con el sistema
+B. Navegar redes sociales
+C. Diseñar páginas web
+
+Respuesta: Ejecutar comandos para interactuar con el sistema
+
+2. Pregunta — Selección múltiple
+¿Qué hace el comando pwd?
+
+A. Elimina archivos
+B. Muestra la ubicación actual dentro del sistema de carpetas
+C. Crea una nueva carpeta
+D. Abre un navegador
+
+Respuesta: B. Muestra la ubicación actual dentro del sistema de carpetas
+
+3. Pregunta 3 — Selección múltiple
+¿Cuál comando permite ver los archivos y carpetas dentro del directorio actual?
+
+A. cd
+B. mkdir
+C. ls
+D. git
+
+Respuesta: C. ls. El comando ls permite listar los archivos y carpetas del directorio actual.
+
+4. Pregunta 4 — Selección múltiple
+¿Cuál comando permite crear una carpeta nueva desde la terminal?
+
+A. touch
+B. mkdir
+C. ls
+D. pwd
+
