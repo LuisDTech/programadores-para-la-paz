@@ -1,0 +1,26 @@
+Ejecución del servidor:
+
+1. ¿Qué ocurre cuando ejecutas `node server.js`?
+
+Al ejecutar el comando node server.js, Node.js inicia el servidor web y queda a la espera de recibir solicitudes de los clientes en el puerto configurado.
+
+2. ¿Qué mensaje aparece en la terminal?
+
+Aparece un mensaje indicando que el servidor se encuentra en funcionamiento, por ejemplo:
+
+
+Servidor iniciado en http://localhost:3000
+
+
+3. ¿Qué sucede cuando visitas la ruta /estado?
+
+Al acceder a la ruta http://localhost:3000/estado desde el navegador y con una herramienta como Postman, el servidor responde con un objeto en formato JSON que informa el estado del servicio.
+
+respuesta del JSON con Postman:
+
+json
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
+
