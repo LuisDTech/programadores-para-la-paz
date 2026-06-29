@@ -1,0 +1,7 @@
+Prácticas de seguridad para una plataforma digital comunitaria:
+
+1. Verificar la identidad de los usuarios antes de otorgar permisos o realizar cambios importantes en la plataforma.
+2. Realizar copias de seguridad periódicas para evitar la pérdida de información ante fallos o incidentes.
+3. Mantener el software actualizado con los últimos parches de seguridad para corregir vulnerabilidades.
+4. Monitorear la actividad de la plataforma para detectar comportamientos inusuales o posibles intentos de acceso no autorizado.
+5. Capacitar a los usuarios sobre ciberseguridad, enseñándoles a identificar intentos de fraude, phishing y otras amenazas.

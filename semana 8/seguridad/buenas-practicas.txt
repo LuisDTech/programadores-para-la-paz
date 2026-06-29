@@ -1,0 +1,7 @@
+Prácticas básicas de seguridad digital:
+
+1. Activar la autenticación en dos factores (2FA): Añadir un segundo método de verificación al iniciar sesión para aumentar la seguridad de las cuentas.
+
+2. Identificar correos y enlaces sospechosos: Evitar abrir archivos adjuntos o hacer clic en enlaces provenientes de remitentes desconocidos o que soliciten información personal.
+
+3. Realizar copias de seguridad periódicas: Guardar respaldos de la información importante en un dispositivo externo o en la nube para evitar la pérdida de datos en caso de fallos o ataques informáticos.

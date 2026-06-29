@@ -1,0 +1,13 @@
+Información del sistema
+
+1. Comando uname -a
+
+Este comando muestra información detallada del sistema operativo, como lo es el nombre del sistema, la versión del kernel de Linux, la arquitectura del procesador y otros datos relacionados con el equipo.
+
+2. Comando whoami
+
+Este comando muestra el nombre del usuario que ha iniciado sesión en el equipo y que está ejecutando los comandos en la terminal.
+
+3. ¿Por qué es útil conocer esta información al administrar un servidor?
+
+Conocer la información del sistema permite identificar el sistema operativo y sus características, verificar qué usuario está realizando las tareas administrativas, facilitar el diagnóstico de problemas, comprobar compatibilidades de software y realizar una administración más segura y eficiente del servidor.
