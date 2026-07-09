@@ -1,0 +1,7 @@
+Evento: una solicitud de mantenimiento de un parque comunitario cambia de estado a "Completada".
+
+Acción: enviar una notificación automática a Telegram.
+
+Mensaje: "La solicitud de mantenimiento del parque ha sido completada. Verifica el resultado en la plataforma."
+
+Información que no debe enviarse: nombres de los solicitantes, documentos de identidad, direcciones, números de teléfono, credenciales de acceso o cualquier otro dato personal o sensible.

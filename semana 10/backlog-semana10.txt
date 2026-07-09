@@ -1,0 +1,14 @@
+1. Como ciudadano quiero adjuntar fotografías y documentos a un reporte para respaldar la información presentada.
+Prioridad: Alta. La evidencia fortalece la credibilidad y facilita la verificación del caso.
+
+2. Como administrador quiero asignar un responsable a cada caso para asegurar que todas las incidencias tengan seguimiento.
+Prioridad: Alta. Garantiza que los reportes no queden sin atención.
+
+3. Como veedor quiero actualizar el estado de una incidencia para informar a la comunidad sobre el avance de su gestión.
+Prioridad: Media. Permite mantener informados a los ciudadanos y mejorar el seguimiento.
+
+4. Como ciudadano quiero recibir una notificación cuando mi reporte cambie de estado para conocer el progreso de la solicitud.
+Prioridad: Media-Baja. Mejora la experiencia del usuario, aunque depende de que exista un flujo de seguimiento.
+
+5. Como líder comunitario quiero generar un resumen de los reportes recibidos para identificar los problemas más frecuentes del barrio.
+Prioridad: Baja. Es útil para el análisis y la toma de decisiones, pero no es esencial para el funcionamiento inicial de la plataforma.
