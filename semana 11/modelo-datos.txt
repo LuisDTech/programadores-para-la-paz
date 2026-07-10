@@ -1,0 +1,24 @@
+Entidad: Proyecto Comunitario
+
+Campos principales:
+- id
+- nombre
+- descripcion
+- categoria
+- fecha_creacion
+
+Propósito:
+Almacenar la información de los proyectos comunitarios que se desarrollan en la plataforma para facilitar su organización y seguimiento.
+
+
+Entidad: Participación
+
+Campos principales:
+- id
+- proyecto_id
+- nombre_participante
+- tipo_participacion
+- fecha
+
+Propósito:
+Registrar la participación de los ciudadanos en cada proyecto, permitiendo llevar un control de las actividades realizadas y generar reportes sobre el nivel de participación de la comunidad.
