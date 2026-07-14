@@ -1,0 +1,7 @@
+Automatización del sistema
+
+Evento: un ciudadano crea una nueva petición en la plataforma.
+
+Mensaje: "Se ha registrado una nueva petición y está disponible para recibir apoyos."
+
+Información que no debe enviarse: números de identificación, teléfonos, direcciones, correos electrónicos, contraseñas ni ningún otro dato personal o sensible de los ciudadanos.

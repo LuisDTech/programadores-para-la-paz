@@ -1,0 +1,19 @@
+Modelo de datos - Petición en 3 Clics
+
+Entidad: Usuario
+- id
+- nombre
+- correo
+- fecha_registro
+
+Sirve para almacenar la información de los ciudadanos que crean o apoyan peticiones.
+
+Entidad: Peticion
+- id
+- usuario_id
+- titulo
+- descripcion
+- estado
+- fecha_creacion
+
+Sirve para registrar las peticiones creadas por los ciudadanos y hacer seguimiento a su estado.
